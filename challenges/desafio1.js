@@ -1,2 +1,2 @@
-use('commerce')
-    db.produtos.countDocuments({})
+use("commerce");
+db.produtos.countDocuments({});
