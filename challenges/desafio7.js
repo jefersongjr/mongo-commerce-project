@@ -1,6 +1,6 @@
 db.produtos.find({ 
     $and: [
-      { $nor: [{ vendidos : 50 }]},
+      { $nor: [{ vendidos: 50 }] },
       { tags: { $exists: false } },
       ] },
   {
