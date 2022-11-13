@@ -1,10 +1,18 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+# Mongo Commecer :shopping: :computer: :leaves:
+
+
+##  🚀📋 Sobre:
+
+**Mongo Commecer** foi o projeto desenvolvido em grupo por ,[Jeferson Gomes](https://www.linkedin.com/in/jefersongjr/),
+durante o curso de formação de desenvolvimento Full Stack da [Trybe](https://www.betrybe.com/), durante o módulo de Front End. <br>
+Aonde tive que utilizar comandos MQL (MongoDB Query Language) para criar um banco de dados MongoDB e para manipular e acessar seus dados. .
+
+## 🛠️ Construído com: 
+
+* MongoDB
+* Docker CLI
+
+## :computer: Skills Desenvolvidas:
+
+* Utilizar comandos MQL para criar um banco de dados MongoDB e para manipular e acessar seus dados. .
+
